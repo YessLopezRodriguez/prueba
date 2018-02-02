@@ -1,0 +1,27 @@
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\bin\Debug\BusinessTresCapas.dll
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\bin\Debug\BusinessTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\bin\Debug\DataTresCapas.dll
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\bin\Debug\EntityTresCapas.dll
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\bin\Debug\DataTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\bin\Debug\EntityTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.csprojResolveAssemblyReference.cache
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.dll
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.csprojResolveAssemblyReference.cache
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.dll
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\BusinessTresCapas.dll
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\BusinessTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\DataTresCapas.dll
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\EntityTresCapas.dll
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\DataTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\EntityTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.pdb
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\BusinessTresCapas.dll
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\BusinessTresCapas.pdb
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\DataTresCapas.dll
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\EntityTresCapas.dll
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\DataTresCapas.pdb
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\bin\Debug\EntityTresCapas.pdb
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.csprojResolveAssemblyReference.cache
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.dll
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\BusinessTresCapas\obj\Debug\BusinessTresCapas.pdb

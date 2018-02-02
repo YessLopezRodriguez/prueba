@@ -1,0 +1,85 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CrearGET</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h3>Crear Registro</h3>
+        <hr />
+        <form class="form-horizontal" method="post" action="/Persona/CrearPOST">
+            <div class="form-group">
+                <label class="control-label col-sm-2">Nombre:</label>
+                <div class="col-sm-10">
+                    <input style="width: 400px;" type="text" class="form-control" placeholder="Ingresa Nombre" name="Nombre">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2">Apellido Paterno:</label>
+                <div class="col-sm-10">
+                    <input style="width: 400px;" type="text" class="form-control" placeholder="Ingresa Apellido Paterno" name="Paterno">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Apellido Materno:</label>
+                <div class="col-sm-10">
+                    <input style="width: 400px;" type="text" class="form-control" placeholder="Ingresa Apellido Materno" name="Materno">
+                </div>      
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Fecha Nacimiento:</label>
+                <div class="col-sm-10">
+                    <input style="width: 400px;" type="text" class="form-control" placeholder="Ingresa Fecha Nacimiento" name="FechaNacimiento">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Sueldo:</label>
+                <div class="col-sm-10">
+                    <input style="width: 400px;" type="text" class="form-control" placeholder="Ingresa Sueldo" name="Sueldo">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2">Sexo:</label>
+                <div class="col-sm-10">
+                    @*<input style="width: 400px;" type="text" class="form-control" placeholder="Ingresa Sexo" name="Sexo_Nombre">*@
+                    <select class="custom-select">
+                        <option selected>Open this select menu</option>
+                        <option value="2" name="Sexo_Nombre">Femenino</option>
+                        <option value="1" name="Sexo_Nombre">Masculino</option>
+                    </select>
+                    <select class="selectpicker">
+                        <option>Mustard</option>
+                        <option>Ketchup</option>
+                        <option>Relish</option>
+                    </select>
+
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <div class="checkbox">
+                        <label><input type="checkbox" name="Estatus"> Estatus</label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-primary">Crear Registro</button>
+                </div>
+            </div>
+        </form>
+    </div>
+        
+</body>
+</html>

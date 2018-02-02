@@ -1,0 +1,15 @@
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\DataTresCapas\bin\Debug\DataTresCapas.dll
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\DataTresCapas\bin\Debug\DataTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.dll
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 17\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.csprojResolveAssemblyReference.cache
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\DataTresCapas\bin\Debug\DataTresCapas.dll
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\DataTresCapas\bin\Debug\DataTresCapas.pdb
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.csprojResolveAssemblyReference.cache
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.dll
+F:\YESENIA\Mes 1\Dia 18\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.pdb
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\DataTresCapas\bin\Debug\DataTresCapas.dll
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\DataTresCapas\bin\Debug\DataTresCapas.pdb
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.csprojResolveAssemblyReference.cache
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.dll
+C:\Users\yesenia\Desktop\Dia 18\SolTresCapas\DataTresCapas\obj\Debug\DataTresCapas.pdb

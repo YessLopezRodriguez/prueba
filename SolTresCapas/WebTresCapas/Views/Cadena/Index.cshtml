@@ -1,0 +1,59 @@
+﻿@using FTG.TresCapas.Business.Entity
+@model List<EntCadena>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="col-lg-8">
+            <h2>Cadenas</h2>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Cadena</th>
+                        <th>Encriptada</th>
+                        <th>Mayusculas</th>
+                        <th>Minusculas</th>
+                        <th>Guion</th>
+                        <th>Letra Capital</th>
+                        <th>Reves</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (EntCadena c in Model)
+                    {
+                        <tr>
+                            <td>@c.Cadena</td>
+                            <td>@c.Encriptada</td>
+                            <td>@c.Mayusculas</td>
+                            <td>@c.Minusculas</td>
+                            <td>@c.Guion</td>
+                            <td>@c.LetraCapital</td>
+                            <td>@c.Reves</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+        <div class="col-lg-4">
+            <h2 class="text-center">Crear</h2>
+            <form method="post" action="/Cadena/InsertarCadenasPOST">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Ingresa cadena" name="Cadena">
+                </div>
+                <button type="submit" class="btn btn-info">Agregar</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

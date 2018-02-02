@@ -1,0 +1,73 @@
+﻿@using FTG.TresCapas.Business.Entity
+@model List<EntPersona>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h3>
+            <a href="/Persona/CrearGET">Crear</a>
+        </h3>
+        @if (TempData["ERROR_PERSONA"] != null)
+        {
+            <div class="alert alert-danger alert-dismissable">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
+                Error de Servidor
+            </div>
+        }
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>NombreCompleto</th>
+                    <th>FechaNacimiento</th>
+                    <th>Sueldo</th>
+                    <th>Estatus</th>
+                    <th>Sexo</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (EntPersona p in Model)
+                {
+                    <tr>
+                        <td>
+                            @p.NombreCompleto
+                        </td>
+                        <td>
+                            @p.FechaNacimiento.ToString("dd/MM/yyyy")
+                        </td>
+                        <td>
+                            @p.Sueldo.ToString("C")
+                        </td>
+                        <td>
+                            @if (p.Estatus == true)
+                            {
+                                <input type="checkbox" checked disabled/>
+
+                            }
+                            else
+                            {
+                                <input type="checkbox" disabled/>
+                            }
+                        </td>
+                        <td>
+                            @p.Sexo_Nombre
+                        </td>
+                        <td>
+                            <a>Eliminar</a> <span> | </span> <a>Editar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>    
+</body>
+</html>
